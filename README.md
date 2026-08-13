@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kanhaiyaChauhan2126/DSA-with-JAVA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/kanhaiyaChauhan2126/DSA-with-JAVA/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kanhaiyaChauhan2126/DSA-with-JAVA/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kanhaiyaChauhan2126/DSA-with-JAVA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
